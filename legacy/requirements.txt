@@ -1,0 +1,4 @@
+# 核心引擎仅依赖 Python 3.11 标准库。
+# 启动 REST API 需要：
+fastapi>=0.110
+uvicorn>=0.27
